@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: #D4F9FF
+}
+
+h2 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90eg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.tab { margin-left: 100px; }
+
+.tabb { margin-left: 200px; }
+
+h2 {
+	text-shadow: 2px 2px #fcf402;
+	font-style: normal;
+	color: #0074D8;
+}
+
+h3 {
+	text-shadow: 1px 1px #fcf402;
+	color: #0074D8;
+	font-size: 20px;
+		
+}
+
+a {
+	text-shadow: 2px 2px #EFC354;
+    color: #fcf402;
+}
